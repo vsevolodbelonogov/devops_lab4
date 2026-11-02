@@ -1,6 +1,6 @@
 # Лабораторная работа П04: Ansible basics
 
-**Выполнил:** vsevolodbelonogov (sbelwork@gmail.com)
+**Выполнил:** Всеволод Белоногов, студент 3 курса ИКНТ ПГНИУ (sbelwork@gmail.com)
 
 ## Что сделано
 1. Отключён cron из П02.
